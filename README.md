@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jones-MF
 - 👀 I’m interested in Ruby, JS, HTML, CSS, PYTHON
 - 🌱 I’m currently learning PYTHON, JS, HTML, CSS, C
-- 💞️ I’m looking to collaborate on Qualquer coisa que achei interessante
+- 💞️ I’m looking to collaborate on Qualquer coisa que ache interessante
 - 📫 How to reach me martinsferreiraj540@gmail.com
 
 <!---
